@@ -1,0 +1,18 @@
+{
+  "name": "tck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.5.2",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "cheerio": "^1.0.0",
+    "tsx": "^4.19.3"
+  }
+}

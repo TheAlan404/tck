@@ -1,0 +1,22 @@
+site_name: TCK
+
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: black
+    accent: indigo
+  
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - footnotes
+
+
+
